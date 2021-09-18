@@ -1,0 +1,77 @@
+#EXTM3U Football
+
+#EXTINF:-1 group-title="Sự kiện Thể thao", FPT UEFA 1
+https://vips-livecdn.fptplay.net/hdevent/uefa01_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao", FPT UEFA 2
+https://vips-livecdn.fptplay.net/hdevent/uefa02_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao", FPT UEFA 3
+https://vips-livecdn.fptplay.net/hdevent/uefa03_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao", FPT UEFA 4
+https://vips-livecdn.fptplay.net/hdevent/uefa04_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao", FPT UEFA 5
+https://vips-livecdn.fptplay.net/hdevent/uefa05_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao", FPT UEFA 6
+https://vips-livecdn.fptplay.net/hdevent/uefa06_4000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 1
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 2
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 3
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 4
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 5
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 6
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 7
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 8
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 9
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 10
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/m44rk5T/FACUP-BEARTV.png",FA CUP 01
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/m44rk5T/FACUP-BEARTV.png",FA CUP 02
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/footballassociation/facup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/m44rk5T/FACUP-BEARTV.png",FA CUP 03
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/footballassociation/facup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/m44rk5T/FACUP-BEARTV.png",FA CUP 04
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/footballassociation/facup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/m44rk5T/FACUP-BEARTV.png",FA CUP 05
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/footballassociation/facup05_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Vòng loại World Cup 1
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Vòng loại World Cup 2
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Vòng loại World Cup 3
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Vòng loại World Cup 4
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Sự kiện Thể thao" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Vòng loại World Cup 5
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
